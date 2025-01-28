@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SuperCrossPlatformLib.dll",
   "resources": {
-    "hash": "sha256-IXCloXWee1xmCllrbcbPPwD1wKOcBRJTgVmtZgLR+cQ=",
+    "hash": "sha256-PQjmTEJv5+9f8Xqpy0K+c1LCg5Sd2hqwr2Qzra+QJuI=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-BLXwu88qRyliHiP+ZlIa43GRId1euGisH7Wh8sDj7hA="
     },
@@ -24,7 +24,7 @@
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-mFtEO4RjiaKN9Nq5+As2bd3qhEk4GqtCwiHFtWTx0Kw="
     },
     "assembly": {
-      "SuperCrossPlatformLib.wasm": "sha256-9pKfEtUcv8iKBP2Ei/00mmASPs01BeQJ5rIPP9mEyWY="
+      "SuperCrossPlatformLib.wasm": "sha256-dQ0qTHZ33cikmHHkhMBg0Jf4wAdV2S7rdLnJXqySK8Y="
     },
     "coreVfs": {
       "runtimeconfig.bin": {
